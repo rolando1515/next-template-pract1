@@ -41,5 +41,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Globals
 
-Set up the future folders
-fonts and ui and delete apis
+1.Set up the future folders fonts and ui and delete apis
+2.import fonts in _app.css
+
