@@ -4,12 +4,12 @@
     font-family: 'Inter', sans-serif;  
 }
 @font-face {
-    font-family: 'Open sans';
-    src: url('../fonts/OpenSans-Regular.ttf');
-    src: url('../fonts/OpenSans-Regular.eot');
-    src: url('../fonts/OpenSans-Regular.woff');
-    src: url('../fonts/OpenSans-Regular.woff2');
+  font-family: 'Google Sans';
+  src: url('/fonts/GoogleSans-Regular.eot');
+  src: url('/fonts/GoogleSans-Regular.ttf');
+  src: url('/fonts/GoogleSans-Regular.woff');
+  src: url('/fonts/GoogleSans-Regular.woff2');
     font-weight: normal;
     font-style: normal;
 }
-
+      
