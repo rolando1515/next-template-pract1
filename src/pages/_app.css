@@ -13,3 +13,35 @@
     font-style: normal;
 }
       
+@font-face {
+  font-family: 'GTWalsheimPro-Black';
+  src: url('/fonts/GT-Walsheim-Pro-Black.eot');
+  src: url('/fonts/GT-Walsheim-Pro-Black.ttf');
+  src: url('/fonts/GT-Walsheim-Pro-Black.woff');
+  src: url('/fonts/GT-Walsheim-Pro-Black.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 
+Here we declare a root, assigning values to the reusable values in the Figma. i.e color, font colors, gradients etc 
+*/
+
+:root{
+  --fullBlack:#000;
+  --softWhite:#fff;
+  --fullWhite:#f5f5f5;
+  --subTitleColor:#6cace4;
+  --subTextColor:#c4c4c4;
+  --nameColor:linear-gradient(84deg, #9845E8 0%, #33D2FF 54.95%, #DD5789 100%);
+  --sendanEmailGradient:
+
+
+
+
+
+
+
+
+
+};
