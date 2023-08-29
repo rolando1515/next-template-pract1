@@ -43,4 +43,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 1.Set up the future folders fonts and ui and delete apis
 2.import fonts in _app.css
+3. Define a : root in the global style sheet and also css variable for colors gradients 
+4. Define a maximum content width (in px) from the application and a percentage width. 
+5. Change the percentage width with CSS variables with media queries for tablet width (90%) and mobile width (95%).
+
+
+
 
