@@ -34,14 +34,8 @@ Here we declare a root, assigning values to the reusable values in the Figma. i.
   --subTitleColor:#6cace4;
   --subTextColor:#c4c4c4;
   --nameColor:linear-gradient(84deg, #9845E8 0%, #33D2FF 54.95%, #DD5789 100%);
-  --sendanEmailGradient:
-
-
-
-
-
-
-
-
-
+  --sendanEmailGradient:linear-gradient(51.06deg, #9358F7 0.87%, #9259F7 7.31%, #8E5DF6 13.75%, #8862F5 20.19%, #806BF4 26.63%, #7575F2 33.07%, #6882F0 39.51%, #5990EE 45.95%, #4A9FEB 52.39%, #3BADE9 58.84%, #2EBAE7 65.28%, #23C4E5 71.72%, #1BCDE4 78.16%, #15D2E3 84.6%, #11D6E2 91.04%, #10D7E2 97.48%);
+  --linkedInGradient:linear-gradient(135deg, #6964DE 2.88%, #FCA6E9 100%);
+  --githubGradient:linear-gradient(132.33deg, #D24074 -0.67%, #6518B4 102.54%);
+  --width:85%;
 };
