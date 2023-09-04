@@ -7,7 +7,7 @@ export const Style = {
         border: 1px #ff0000;
         display: grid;
         place-items: center;
-        background-color: #000000;
+        background-color: #ff0000;
 
         .flex-container {
             display: flex;
