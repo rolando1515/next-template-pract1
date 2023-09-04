@@ -13,10 +13,36 @@ export const Style = {
             display: flex;
         }
 
-        
+        .flex-item{
+            flex: 1;
+            padding:10px;
+            border: 1px solid #000000;
+        }
 
+        .header-content{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: var(--width);
+            max-width: var(--max-width);
+            height: 100%;
+            border: 1px solid #000000;
+        }
+        .header-logo{
+            width: 39px;
+            height: 29px;
+        }
+        ul{
+            list-style: none;
+            margin: 0;
+            padding: 0; 
+        }
 
+        li{
+            display:inline-block;
+            margin-left: 20px;
 
+        }
 
 
     `,
