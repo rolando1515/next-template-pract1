@@ -1,13 +1,14 @@
 import styled from "styled-components";
-
+// You can copy the styles from figma. 
+// make sure to open the typescript file so you can see what the styles are being applied to.
 export const Style = {
     Container: styled.header`
         height: 60px;
         width: 100%;
-        border: 1px #ff0000;
+        border: 1px #111111 ;
         display: grid;
         place-items: center;
-        background-color: #ff0000;
+        background-color: #111111;
 
         .flex-container {
             display: flex;
@@ -31,6 +32,12 @@ export const Style = {
         .header-logo{
             width: 39px;
             height: 29px;
+            color: #FFF;
+            font-family: Inter;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 300;
+            line-height: normal;
         }
         ul{
             list-style: none;
@@ -41,7 +48,12 @@ export const Style = {
         li{
             display:inline-block;
             margin-left: 20px;
-
+            color: #FFF;
+            font-family: Inter;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 300;
+            line-height: normal;
         }
 
 
