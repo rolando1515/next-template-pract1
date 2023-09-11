@@ -48,5 +48,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 5. Change the percentage width with CSS variables with media queries for tablet width (90%) and mobile width (95%).
 
 
-
+## Start working on the header and on the footer. 
+Create a folder under ui called header and footer.
+in one file you will have the footer in tsx and the other one the styles in css.
 
