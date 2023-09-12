@@ -51,4 +51,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Start working on the header and on the footer. 
 Create a folder under ui called header and footer.
 in one file you will have the footer in tsx and the other one the styles in css.
+The styling for the footer elements have a border & SVG, can you get them from the Figma and add them? Make it look similar to the design.
 
