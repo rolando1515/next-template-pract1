@@ -2,12 +2,12 @@ import styled from "styled-components";
 
 export const Style = {
     Container:styled.footer`
-        width: Hug (1,080px);
-        height: Hug (49px);
-        top: 5073px;
-        left: 180px;
-        gap: 117px;
-        background-color: #FFFFFF;
+         height: 123px;
+         width: 100%;
+         border: 1px #000000;
+         display: grid;
+         place-items: center;
+         background-color: #c00c0c;
 
 
 
