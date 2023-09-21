@@ -5,10 +5,10 @@ export const Style = {
     Container: styled.header`
         height: 60px;
         width: 100%;
-        border: 1px #111111 ;
+        border: 1px #000000 ;
         display: grid;
         place-items: center;
-        background-color: #111111;
+        background-color: #000000;
 
         .flex-container {
             display: flex;
