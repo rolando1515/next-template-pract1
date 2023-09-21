@@ -1,11 +1,5 @@
 import Head from 'next/head';
-import {
- 
-
-  
-  Hero
-  
-} from '.ui/containers/hero';
+import {Hero} from 'ui/containers/Home/Hero';
 import { PageLayout } from 'ui/layouts/pageLayout';
 
 
