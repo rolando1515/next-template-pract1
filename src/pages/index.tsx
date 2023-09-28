@@ -1,6 +1,14 @@
 import Head from 'next/head';
+import {
+  AboutMe,
+  Experience,
+  FeaturedProjects,
+  Hero,
+  Resume,
+} from 'ui/containers/Home';
 import { PageLayout } from 'ui/layouts/pageLayout';
-import {Hero} from "/Users/rolandolabrador/Documents/next-template-pract1/src/ui/containers/Hero/hero";
+
+
 export default function Home() {
   return (
     <>

@@ -53,3 +53,7 @@ Create a folder under ui called header and footer.
 in one file you will have the footer in tsx and the other one the styles in css.
 The styling for the footer elements have a border & SVG, can you get them from the Figma and add them? Make it look similar to the design.
 
+
+
+## Now let's work on the Hero. 
+
