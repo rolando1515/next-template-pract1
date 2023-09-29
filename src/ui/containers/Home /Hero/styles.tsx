@@ -9,7 +9,8 @@ export const Style = {
     flex-direction: column;
     justify-content: center;
     padding-bottom: calc(123px / 2);
-
+    
+    
     span {
       font-family: 'Inter';
       font-style: normal;

@@ -33,7 +33,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    background-color: var(--lightestGrey);
+    background-color: #000000;
     transition: background-color 0.25s linear;
     width: 100%;
 

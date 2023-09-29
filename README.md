@@ -46,7 +46,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 3. Define a : root in the global style sheet and also css variable for colors gradients 
 4. Define a maximum content width (in px) from the application and a percentage width. 
 5. Change the percentage width with CSS variables with media queries for tablet width (90%) and mobile width (95%).
-
+Remember to set up the background color for the body and the font family.
 
 ## Start working on the header and on the footer. 
 Create a folder under ui called header and footer.
@@ -56,4 +56,5 @@ The styling for the footer elements have a border & SVG, can you get them from t
 
 
 ## Now let's work on the Hero. 
-
+The way this is set up you will find problems with the relative path. 
+Rember to import use the relative path and take out the .tsx extension.
