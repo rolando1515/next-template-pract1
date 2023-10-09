@@ -5,6 +5,7 @@ import './_app.css';
 import { Header } from 'ui/shared';
 import { Footer } from 'ui/shared/Footer /footer';
 
+
 export default function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
