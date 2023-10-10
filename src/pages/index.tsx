@@ -15,6 +15,7 @@ export default function Home() {
       <PageLayout>
         <Hero/>
         <FeaturedProjects/>
+        
       </PageLayout>
       
     </>
